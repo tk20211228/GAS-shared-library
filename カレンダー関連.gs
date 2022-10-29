@@ -61,6 +61,8 @@ function businessdayscheck(date) {
   const body = response.getContentText();  
   con
   return JSON.parse(body).result; 
+
+  // const SSK = 'sasaki';
 }
 
 
